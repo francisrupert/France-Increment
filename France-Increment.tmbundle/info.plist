@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>France-Increment</string>
+	<key>ordering</key>
+	<array>
+		<string>35A5F9A2-A6B9-474C-BFE7-77D39C2D9301</string>
+		<string>ACD26DE9-D353-4E02-ACD1-9F430587148E</string>
+		<string>86391437-8D68-4A37-AE80-54FDCF7D2B92</string>
+		<string>01DC385E-672C-4B03-8104-989A17753FD2</string>
+	</array>
+	<key>uuid</key>
+	<string>E0A2D38F-E75B-4C4D-8506-498B1247E691</string>
+</dict>
+</plist>
